@@ -1,0 +1,54 @@
+baseURL = "https://runlanghao.github.io/"
+defaultContentLanguage = "en"
+theme = "nomad-tech"
+
+[pagination]
+  pagerSize = 6
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[languages]
+  [languages.en]
+    languageCode = "en-US"
+    title = "Runlang Hao"
+    weight = 1
+
+[params]
+  author = "Runlang Hao"
+  logo = "Runlang Hao"
+  subtitle = "///////////////subtitle/////////////"
+  description = "////////////description///////////"
+
+  # Portfolio Items
+  [[params.portfolio]]
+    title = "Artifact 1"
+    type = "///Type!!///"
+    icon = "📱"
+    description = "////description/////"
+    tags = ["///", "///", "///"]
+    project_url = "/portfolio/Artifact-1/"
+
+  [[params.portfolio]]
+    title = "Another Project"
+    type = "Web Application"
+    icon = "🌐"
+    description = "Web application description"
+    tags = ["React", "Vue.js"]
+
+  # Contact Information
+  [[params.contact]]
+    icon = "📧"
+    name = "email"
+    value = "me@m03315.top"
+  
+  [[params.contact]]
+    icon = "💬"
+    name = "wechat"
+    value = "m03315_"
+  
+  [[params.contact]]
+    icon = "🐦"
+    name = "twitter"
+    value = "@m03315_"
