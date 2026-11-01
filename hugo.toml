@@ -12,7 +12,7 @@ theme = "nomad-tech"
 [languages]
   [languages.en]
     languageCode = "en-US"
-    title = "Runlang Hao"
+    title = "Runlang Hao's Professional Portfolio"
     weight = 1
 
 [params]
@@ -30,25 +30,13 @@ theme = "nomad-tech"
     tags = ["///", "///", "///"]
     project_url = "/portfolio/Artifact-1/"
 
-  [[params.portfolio]]
-    title = "Another Project"
-    type = "Web Application"
-    icon = "🌐"
-    description = "Web application description"
-    tags = ["React", "Vue.js"]
-
   # Contact Information
   [[params.contact]]
     icon = "📧"
     name = "email"
-    value = "me@m03315.top"
+    value = "Ray.Hao@myemail.indwes.edu"
   
   [[params.contact]]
-    icon = "💬"
-    name = "wechat"
-    value = "m03315_"
-  
-  [[params.contact]]
-    icon = "🐦"
-    name = "twitter"
-    value = "@m03315_"
+    icon = "💻"
+    name = "GitHub"
+    value = "https://github.com/RunlangHao"
