@@ -28,6 +28,10 @@ After the results were generated, I analyzed the similarities and differences be
 
 From the observed behaviors, I composed some justifications, and then did some research on the working principles of LLMs to verify my theories. 
 
+The image of the generated designs are shown below: 
+
+![Alt text](/artifact-1/remotes.png)
+
 ## Experiment 2: Practice with Custom GPTs
 
 In this experiment, I had a conversation with ChatGPT about the principle of gear reduction. 
@@ -42,6 +46,8 @@ At last, I asked it to create a summary of the conversation.
 
 I noted some actions of interest performed by the AI, recorded the places it got the answer right, and where it responded inaccurately.  
 
+Link to the conversation history: https://chatgpt.com/share/6ae58b10-daa8-83e8-af63-cfb3660ca4be
+
 ## Experiment 3: Practice with a Research Assistant
 
 Moving away from AI services oriented toward a broad market, I interacted with a research assistant AI for this experiment to investigate its abilities and output. 
@@ -51,6 +57,8 @@ The first step was to ask it to generate a research paper on a specific theme, I
 As it was working, I checked the internal activity log, noted what research it was doing, and the sub tasks it chose to perform based on the research results. 
 
 After it generated the paper, I took a brief read, identified the structure of the article, and analyzed the content. 
+
+Link to the generated research paper: [How does AC electricity work_.pdf](/artifact-1/research-paper.pdf)
 
 ## Experiment 4: Build a Bot
 
@@ -63,6 +71,12 @@ I then read the Term of Use of the service, and identified the phrases and cavea
 After confirming the requirements of the project and the clauses of the service, I input the parameters to their platform to create the chatbot instance. 
 
 A couple rounds of testing from a user's perspective was done on the resulting chatbot to make sure it behaved acceptably and accomplished its designated tasks. 
+
+The chat bot can be accessed though this link: https://mizou.com/login-thread?ID=0uUx2AclPAu0PnvG7A2a2qLnwDRdsnbtjuYUv371Np8-153627
+
+Here is a screenshot of the chatbot talking to the user to solve an error: 
+
+![Alt text](/artifact-1/chatbot.png)
 
 # Tools and Technologies Used
 
