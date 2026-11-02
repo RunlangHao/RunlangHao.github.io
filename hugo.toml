@@ -48,3 +48,7 @@ theme = "nomad-tech"
     icon = "💻"
     name = "GitHub"
     value = "https://github.com/RunlangHao"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
