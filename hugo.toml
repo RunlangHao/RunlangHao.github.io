@@ -36,7 +36,7 @@ theme = "nomad-tech"
     icon = "🔬"
     description = "Experimenting with AI products, understanding their inner workings and identifying their value. "
     tags = ["GPT", "LLM"]
-    project_url = "/portfolio/Artifact-1/"
+    project_url = "/portfolio/artifact-1/"
 
   # Contact Information
   [[params.contact]]
