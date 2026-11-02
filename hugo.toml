@@ -18,16 +18,24 @@ theme = "nomad-tech"
 [params]
   author = "Runlang Hao"
   logo = "Runlang Hao"
-  subtitle = "///////////////subtitle/////////////"
-  description = "////////////description///////////"
+  subtitle = """
+  Graduate Computer and Information Sciences student with an 
+  electrical engineering background. 
+  """
+  description = """
+  I specialize in integrating AI/ML systems into hardware development and engineering, 
+  accelerating hardware projects with the speed and agility of software. 
+  With hand-on experience with advanced electronics and PCB design, 
+  I create real world products that exceed expectations. 
+  """
 
   # Portfolio Items
   [[params.portfolio]]
     title = "Artifact 1"
-    type = "///Type!!///"
-    icon = "📱"
-    description = "////description/////"
-    tags = ["///", "///", "///"]
+    type = "AI Lab Experiments"
+    icon = "🔬"
+    description = "Experimenting with AI products, understanding their inner workings and identifying their value. "
+    tags = ["GPT", "LLM"]
     project_url = "/portfolio/Artifact-1/"
 
   # Contact Information
