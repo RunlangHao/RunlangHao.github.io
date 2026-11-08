@@ -38,6 +38,14 @@ theme = "nomad-tech"
     tags = ["GPT", "LLM"]
     project_url = "/portfolio/artifact-1/"
 
+  [[params.portfolio]]
+    title = "Artifact 2"
+    type = "Traditional Machine Learning vs Deep Learning Analysis"
+    icon = "📝"
+    description = "Determining the best technology for a project. "
+    tags = ["Deep Learning", "Machine Learning", "Research"]
+    project_url = "/portfolio/artifact-2/"
+
   # Contact Information
   [[params.contact]]
     icon = "📧"
