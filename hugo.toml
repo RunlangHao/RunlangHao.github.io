@@ -46,6 +46,14 @@ theme = "nomad-tech"
     tags = ["Deep Learning", "Machine Learning", "Research"]
     project_url = "/portfolio/artifact-2/"
 
+  [[params.portfolio]]
+    title = "Artifact 3"
+    type = "Explaining Neural Networks"
+    icon = "👨‍🏫"
+    description = "Diving into the core working principles of neural networks. "
+    tags = ["Neural Networks", "Machine Learning"]
+    project_url = "/portfolio/artifact-3/"
+
   # Contact Information
   [[params.contact]]
     icon = "📧"
