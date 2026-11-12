@@ -1,6 +1,6 @@
 +++
 date = '2026-11-12T13:45:16-06:00'
-draft = true
+draft = false
 title = 'Artifact 3: Explaining Neural Networks'
 +++
 
