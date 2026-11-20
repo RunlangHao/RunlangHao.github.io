@@ -54,6 +54,14 @@ theme = "nomad-tech"
     tags = ["Neural Networks", "Machine Learning"]
     project_url = "/portfolio/artifact-3/"
 
+  [[params.portfolio]]
+    title = "Artifact 4"
+    type = "Data Challenge Scenarios"
+    icon = "🧠"
+    description = "Solving problems faced during the data acquisition phase. "
+    tags = ["Data Acquisition", "Data Preparation"]
+    project_url = "/portfolio/artifact-4/"
+
   # Contact Information
   [[params.contact]]
     icon = "📧"
