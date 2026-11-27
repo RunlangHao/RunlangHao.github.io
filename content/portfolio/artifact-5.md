@@ -1,7 +1,7 @@
 +++
 date = '2026-11-26T23:59:19-06:00'
 draft = false
-title = 'Artifact 5'
+title = 'Artifact 5: Iterative Learning for Transformation'
 +++
 
 # Introduction and Description

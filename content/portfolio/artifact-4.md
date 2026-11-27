@@ -1,7 +1,8 @@
 +++
 date = '2026-11-19T22:55:37-06:00'
 draft = false
-title = 'Artifact 4'
+title = 'Artifact 4: Data Challenge Scenarios'
+
 +++
 
 # Introduction and Description
