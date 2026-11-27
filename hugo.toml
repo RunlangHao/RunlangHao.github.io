@@ -62,6 +62,14 @@ theme = "nomad-tech"
     tags = ["Data Acquisition", "Data Preparation"]
     project_url = "/portfolio/artifact-4/"
 
+  [[params.portfolio]]
+    title = "Artifact 5"
+    type = "Iterative Learning for Transformation Presentation"
+    icon = "👨‍🏫"
+    description = "Discussing ways to improve as a leader in the AI era. "
+    tags = ["Group Project", "Presentation", "Iteration"]
+    project_url = "/portfolio/artifact-5/"
+
   # Contact Information
   [[params.contact]]
     icon = "📧"
